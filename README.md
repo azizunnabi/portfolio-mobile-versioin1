@@ -42,9 +42,9 @@ To get a local copy up and running follow these simple example steps.
 
 👤 **Author1**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- GitHub: [@azizunnabi](https://github.com/azizunnabi)
+- Twitter: [@UnnabiAziz](https://twitter.com/UnnabiAziz)
+- LinkedIn: [aziz-unnabi-770bb7212](https://linkedin.com/in/aziz-unnabi-770bb7212)
 
 👤 **Author2**
 
@@ -71,3 +71,4 @@ Give a ⭐️ if you like this project!
 ## 📝 License
 
 This project is [MIT](./MIT.md) licensed.
+
