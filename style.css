@@ -1,4 +1,5 @@
 .header-background { 
+
   position: absolute;
   width: 475px;
   height: 916px;
@@ -11,6 +12,7 @@
   }
 
 .m-logo {
+
   padding-top: 10px;
   padding-left: 10px;
   text-decoration: none;
@@ -50,6 +52,7 @@ a.inline {
   }
 
 .link-right {
+
   margin-top: -30px;
   text-decoration: none;
   list-style-type: none;
@@ -57,11 +60,13 @@ a.inline {
   }
 
 .section1 {
+
   width: 375px;
   padding-top: 10px;
   }
 
 .section2 {
+
   padding-left: 10px;
   width: 920px;
   height: 122px;
@@ -70,6 +75,7 @@ a.inline {
   /* Header / 1 */
 
 .h2 {
+
   float: center;
   font-family: 'Poppins';
   font-style: normal;
@@ -95,12 +101,13 @@ a.inline {
   }
 
 .imalex {
+
   width: 375px;
   padding-left: 0px;
   }
 
 .sec4h4 {
-  width: 75px;
+
   height: 146px;
 
   /* Body / 2 */
@@ -138,6 +145,7 @@ a.inline {
   }
   
 h2 {
+
   width: 375px;
   padding-left: 0px;
   }
@@ -147,22 +155,26 @@ h2 {
   }
 
 .sec2image {
+
   padding-right: 40px;
   padding-top: 25px;
   margin-top: -30px;
   }
 
 h5 {
+
   color:#6070FF;
   margin-top: -20px;
   }
 
 .image6 {
+
   padding-left: 10px;
   width: 30px;
   }
 
 .ets {
+
   color:#6070FF;
   margin-top: -80px;
   padding-top: 25px;
@@ -170,15 +182,7 @@ h5 {
 
 .image3 {
   width: 30px;
-  float: right;
-  }
-
-.image7 {
-  padding-left: 150px;
-  width: 30px;
   }
 
 .image5{
-  padding-left: 50px;
-  width:30px;
-  }
+
